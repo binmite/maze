@@ -1,14 +1,14 @@
-x x x x x x x x x x x x x x x 
-                            x
-x x x x x x   x             x
-x             x x x x x x   x
-x x x x x x   		x   x
-x x x x	x x   x	x x x   x   x
-x x	      x	x   x	x   x
-x x   x	x x x x	x   x	x   x
-x x   x		    x	x   x
-x x   x	  x x x	x x x   x   x	    
-x x   x			x   x
-x x   x	x x x x x x x x x x x		     
-x x		 	    
-x x x x x x x x x x x x x x x			    
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+----------------------------x
+xxxxxxxxxxxxx-xxxxxxxxxxxx-xx
+x-------------xxxxxxxxxxxx-xx
+xxxxxxxxxxxxx--------------xx
+xxxxxxxxxxxxx-xxxxxxxx-xxx-xx
+xxx-----------xxxx-xxx-xxx-xx
+xxx-xxxxxxxxxxxxxx-xxx-xxx-xx
+xxx-xxx------------xxx-xxx-xx
+xxx-xxx-xxxxxxxxxxxxxx-xxx-xx
+xxx-xxx----------------xxx-xx
+xxx-xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx--------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
